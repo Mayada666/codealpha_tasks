@@ -115,4 +115,5 @@ The project provided practical experience in data cleaning, exploratory data ana
 
 ## Author
 
-Created as a data analysis project using Python and Google Colab.
+Mayada Abou Hamdan
+CodeAlpha Machine Learning Intern
